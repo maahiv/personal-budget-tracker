@@ -1,0 +1,11 @@
+title: Personal Budget Tracker
+theme: jekyll-theme-primer
+
+exclude:
+  - backend/
+  - backend/**/*
+  - frontend/node_modules/
+  - frontend/node_modules/**/*
+  - node_modules/
+  - node_modules/**/*
+  - vendor/
